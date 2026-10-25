@@ -1,0 +1,12 @@
+{
+  "name": "student-api",
+  "version": "1.0.0",
+  "description": "Task 1: Basic REST API for Student Records",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
